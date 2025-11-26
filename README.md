@@ -1,10 +1,11 @@
 # AI-ML-Internship-Tasks
-This repository contains the three projects I completed during my AI/ML internship. Each project was focused on learning basic machine learning steps from exploring data to training models and checking accuracy.
+This repository contains the three projects I completed during my AI/ML internship. Each project was focused on learning machine learning steps from exploring data to training models and checking accuracy.
 
 1. Task Objective
+   
 The main goal of these tasks was to understand how to load datasets explore them visualize important patterns, train machine learning models and evaluate their performance in a simple and clear way.
 
-2. Datasets Used
+3. Datasets Used
 
 House Price Prediction: A housing dataset with features like rooms, area, and location to predict house prices.
 
